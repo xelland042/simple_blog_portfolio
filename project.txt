@@ -1,0 +1,30 @@
+HOME PAGE
+Hero img 2ta
+Hero text
+About Img 2 ta
+About Text
+
+PORTFOLIO PAGE
+Single Img 2 ta
+Single title
+Single desc
+Single Link
+
+SINGLE PAGE
+Main Img 2 ta
+Single title
+Single desc
+Desing Type
+Skills
+Single Link
+Project Background desc
+Single Img 2 ta
+Mobile img 2 ta
+Previous(Last) and Next(First) site Links Title
+
+CONTACT PAGE
+Contact desc
+Social Links
+
+FOOTER
+Social Links
